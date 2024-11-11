@@ -73,29 +73,31 @@ Engagement: Incentivizes the use of the project and contributions because it is 
 
 
    
-Public versus Private Repositories on GitHub - Public Repositories: Pros
-
+Public versus Private Repositories on GitHub - Public Repositories:
 Public Visibility: In as much as the public repository is accessible to everybody through the internet, this may increase the visibility and reach for your project.
 Collaboration: They tend to encourage a wider range of developer involvement in the project, which may foster a more diverse environment of collaboration.
 Community Engagement: Public repositories can attract community feedback and contribution in the project, which may enhance the quality and innovation in the project.
 Showcase Work: They are great for showcasing your work for potential employers or collaborators because anyone can look at your code and your contributions.
+
 Disadvantages:
 Security: A major problem they have is with the security of the code; because it is publicly available, it could expose sensitive information or intellectual property.
 Managing: At a high volume, it is extremely difficult to manage the contributions being submitted from external contributors in a timely manner.
 Competition: Your code is in the open for one and all to see, and competitors may access your work. This could be a serious concern for proprietary projects.
 Private Repositories
+
 Advantages:
 Security: Private repositories place limits on access to invitees only, therefore allowing you to protect sensitive data or intellectual property against loss.
 Control: Private repositories give you a better sense of control since you are in a position to know who has accessed and contributed to your project. This may also make project management easier because you can keep the project clean of any contamination.
-Testing: They allow for the safe testing and development of new features without exposing them to the public.
-Limitations include:
 
+Testing: They allow for the safe testing and development of new features without exposing them to the public.
+
+Limitations include:
 Minimal Collaboration: The collaboration can only be extended to invited members, which therefore limits the contributions to a few and the feedback received.
 Visibility: Private repositories are not as synonymous with exposure and visibility as is the case with public repositories, hence a limitation if one aims to showcase his/her work.
 Cost: With GitHub, while private repositories are free, there may be some limits to either the number of collaborators or to the features available with or without a paid plan.
 Context of Collaborative Projects
-Public Repositories:
 
+Public Repositories:
 Very suitable for open-source projects where the inclusion of the community and transparency needs to be ensured.
 Suitable for educational purposes to let students and developers learn and contribute toward real-world projects.
 Suitable for projects that gain from widespread testing and getting feedback on the same. Private Repositories:
