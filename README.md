@@ -1,20 +1,24 @@
 1. Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Fundamentals concepts of Version Control:
+
+   
+**Fundamentals concepts of Version Control:**
 a) Tracking Changes- records modifications made to files including who did the modifications and when.
 b) Branching and Merging- Allows one to create branches so as to work on different features or fixes independently and ends up merging them back into the main ptoject.
 c) Collaboration- Multiple people can work on the same project together/simultaneously without overwriting each other's work.
 d) Back up and restore- one can go back to previous versions if something goes wrong, so as to ensuring you don't loose important work.
-Why GitHub is Popular
+**Why GitHub is Popular**
 a) Collaboration: GitHub makes it easy for developers to collaborate on projects with some  features like pull requests, code reviews, and issue tracking there as making work easier for them.
 b) Hosting and Sharing: It provides a central place to host repositories, making it easy to share code and contribute to open-source projects to everyone so as to gain assistance and more ideas.
 c) Community and Resources: It has a large community of developers allover the world and extensive resources that will come in hand while programming.
-Maintaining Project Integrity with Version Control
+**Maintaining Project Integrity with Version Control**
 a) Preventing Conflicts while working on Projects: By managing changes in separate branches, it minimizes the risk of conflicts and makes it easier to integrate changes while using it.
 b) Accountability of work: Every change is recorded with details about who made it and why, providing a clear trail thus making work easier and enjoyable.
 c) Consistency in working: Ensures that everyone on the team is working with the same version of the project, reducing errors due to outdated or inconsistent files that may end up leading to inconsistent workflow.
 d) Recovery: If a mistake is made, you can easily revert to a previous version, ensuring that valuable work isn’t lost thus making it easier to restore data and to make amendments where necessary.
+
+
 2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
-**  Setting Up a New Repository on GitHub**
+**Setting Up a New Repository on GitHub**
 Creating a new repository on GitHub is a straightforward process. Here are the key steps and important decisions you’ll need to make:
 a) Sign In to GitHub: Make sure you’re logged into your GitHub account.
 b) Create a New Repository:
